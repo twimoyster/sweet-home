@@ -1,3 +1,22 @@
+# SweetHome
+
+SweetHome is a project we built for the OpenAI Hackathon.
+
+Instead of recommending homes based only on price or location, SweetHome focuses on lifestyle. We want to help people understand what it might actually feel like to live in a place before making one of the biggest decisions in their lives.
+
+The current MVP demonstrates the complete user journey using curated mock data.
+
+## How we used Codex & GPT-5.6
+
+Throughout this project, we used Codex and GPT-5.6 as development tools instead of treating them as code generators.
+
+GPT-5.6 helped us think through the product idea, refine the user flow, and break the project into smaller MVP tasks before we started building.
+
+Once we were happy with the direction, we used Codex to generate and iterate on individual pages, React components, and UI improvements. We also used it to help debug issues, refactor code, and speed up repetitive work.
+
+Every feature still went through multiple rounds of review and changes before becoming part of the final product. AI helped us move faster, but every product decision and final implementation was made by us.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
